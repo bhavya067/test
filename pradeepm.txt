@@ -15,3 +15,4 @@ gcp-qa commit 3
 
 azure commit -1
 gcp-dev commit 4
+aws-notebook commit 5
